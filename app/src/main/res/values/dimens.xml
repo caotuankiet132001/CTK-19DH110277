@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="xxxLargeFontSize">48sp</dimen>
+    <dimen name="largeFontSize">18sp</dimen>
+    <dimen name="mediumFontSize">16sp</dimen>
+    <dimen name="smallFontSize">14sp</dimen>
+
+    <dimen name="widthLargeSpace">180dp</dimen>
+    <dimen name="xLargeSpace">30dp</dimen>
+    <dimen name="largeSpace">20dp</dimen>
+    <dimen name="mediumSpace">10dp</dimen>
+    <dimen name="smallSpace">5dp</dimen>
+</resources>

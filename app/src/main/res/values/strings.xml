@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">FoodyApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main3">MainActivity</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="toprestaurant">Top Restaurant</string>
+    <string name="topfood">Top Food</string>
+
+
+    <string name="google_maps_api_key">AIzaSyB3wsvqVExy7iQvWmDoy4llcjqjthLl-Z0</string>
+    <string name="text_instant_food_delivery">Instant Food Delivery</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_forgot">Forgot?</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="text_sign_up">Sign Up</string>
+    <string name="text_sign_in_facebook">Sign In with Facebook</string>
+    <string name="text_sign_in_google">Sign In with Google</string>
+    <string name="text_view_basket">View Basket</string>
+    <string name="text_message">Message</string>
+    <string name="text_home">Home</string>
+    <string name="text_order">Order</string>
+    <string name="text_profile">Profile</string>
+    <string name="text_update">Update</string>
+    <string name="text_change_password">Change Password</string>
+    <string name="text_fullname">Full name</string>
+    <string name="text_address">Address</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_order_id">Order ID:</string>
+    <string name="text_cash">Cash</string>
+    <string name="text_cancel_booking">Cancel Booking</string>
+    <string name="text_no_order">There are no order</string>
+    <string name="basket">Basket</string>
+    <string name="book">Book</string>
+    <string name="add_to_basket">Add to Basket</string>
+    <string name="back_to_menu">Back to menu</string>
+    <string name="place_order">Place Order</string>
+    <string name="camera">Take a photo</string>
+    <string name="gallery">Choose from Gallery</string>
+    <string name="choose_a_photo">Take picture or choose a photo</string>
+    <string name="cancel">Cancel</string>
+    <string name="finding_nearby">Finding your nearby driver…</string>
+    <string name="checkout">Check out</string>
+    <string name="logout">Logout</string>
+
+
+</resources>
